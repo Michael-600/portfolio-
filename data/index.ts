@@ -7,7 +7,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Welcome! I’m Michael, a Duke University student with experience in software engineering, machine learning, and database engineering",
+    title:
+      "Welcome! I’m Michael, a Duke University student with experience in software engineering, machine learning, and database engineering",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -17,7 +18,8 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: " I’ve had the chance to work with Slack and Salesforce, tackling everything from backend logic to data models.",
+    title:
+      " I’ve had the chance to work with Slack and Salesforce, tackling everything from backend logic to data models.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -37,7 +39,8 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Outside of coding, I’m passionate about sustainability and finding creative ways to make an impact.",
+    title:
+      "Outside of coding, I’m passionate about sustainability and finding creative ways to make an impact.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -73,29 +76,27 @@ export const projects = [
     id: 1,
     title: "Mini Amazon Full-Stack App",
     des: "Developed a full-stack e-commerce web application like Amazon, integrating product listings, user authentication, shopping cart, and order processing functionalities.",
-    img: "/",
+    img: "/m1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "",
+    link: "www.michealhayford.com",
   },
   {
     id: 2,
-    title: "Graph-Based Routing Service|",
+    title: "Graph-Based Routing Service",
     des: "Developed a GraphProcessor class to model a highway network with over 90,000 vertices and edges for optimized routing.",
-    img: "/",
+    img: "/m1.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "",
+    link: "/www.michealhayford.com",
   },
   {
     id: 3,
     title: "EcoTrack Carbon Footprint Calculator",
     des: "Built a carbon footprint calculator using machine learning techniques, particularly k-means clustering, to categorize users into distinct carbon consumption profiles based on their habits and lifestyle choices.",
-    img: "/",
+    img: "/m1.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/",
+    link: "/www.michealhayford.com",
   },
 ];
-
-
 
 export const companies = [
   {
