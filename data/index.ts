@@ -84,7 +84,7 @@ export const projects = [
     id: 2,
     title: "Graph-Based Routing Service",
     des: "Developed a GraphProcessor class to model a highway network with over 90,000 vertices and edges for optimized routing.",
-    img: "/",
+    img: "/graph.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/www.michealhayford.com",
   },
@@ -92,7 +92,7 @@ export const projects = [
     id: 3,
     title: "EcoTrack Carbon Footprint Calculator",
     des: "Built a carbon footprint calculator using machine learning techniques, particularly k-means clustering, to categorize users into distinct carbon consumption profiles based on their habits and lifestyle choices.",
-    img: "/",
+    img: "/eco.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/www.michealhayford.com",
   },
@@ -134,7 +134,7 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Software Engineering Intern, Slackd268",
+    title: "Software Engineering Intern, Slack",
     desc: "Collaborated with the Technical Platform Architecture team to enhance built-in functions, and workflows, implementing a new error response system that improved error detection and categorization by 30%.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
@@ -143,14 +143,14 @@ export const workExperience = [
     id: 2,
     title: "Duke Applied Machine Learning Club",
     desc: "Collaborated with a diverse team to design and optimize software, meeting client requirements and improving project efficiency by 25%.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Meta Back-End Developer Course",
     desc: "Developed a dynamic Django web server with multiple API endpoints, establishing a modular and scalable framework that supported seamless interactions with various client applications.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
