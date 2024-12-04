@@ -18,8 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title:
-      " I’ve had the chance to work with Slack and Salesforce, tackling everything from backend logic to data models.",
+    title: " I’ve had the chance to work with Slack and Salesforce.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
